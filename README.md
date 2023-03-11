@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr-momin&label=Profile%20views&color=0e75b6&style=flat" alt="dr-momin" /> </p>
-- 🔭 I’m currently working on [E-School_FYP](https://github.com/Dr-Momin/e-school)
+- 🔭 I’m currently working on [E-School_FYP] (https://github.com/Dr-Momin/e-school)
 
 - 👨‍💻 All of my projects are available at [https://dr-momin.vercel.app](https://dr-momin.vercel.app)
 
