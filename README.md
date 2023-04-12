@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dr-momin.vercel.app](https://dr-momin.vercel.app)
 
-- 📫 How to reach me **mohammadmomin00@gmail.com**
+- 📫 How to reach me **dr.mominofficial@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
