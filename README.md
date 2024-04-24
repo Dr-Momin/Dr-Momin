@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Momin Khan</h1>
-<h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [E-School_FYP](https://github.com/Dr-Momin/e-school)
+- 🔭 I’m currently working on [DevFlow](https://github.com/Dr-Momin/next-devflow-jsm)
 
 - 👨‍💻 All of my projects are available at [https://dr-momin.vercel.app](https://dr-momin.vercel.app)
 
