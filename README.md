@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Momin Khan</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [devflow-app](https://github.com/Dr-Momin/next-devflow-jsm)
+- 🔭 I’m currently working on [dev-overflow](https://github.com/Dr-Momin/next-devflow-jsm)
 
 - 👨‍💻 All of my projects are available at [https://dr-momin.vercel.app](https://dr-momin.vercel.app)
 
