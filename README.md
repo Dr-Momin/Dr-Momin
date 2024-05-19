@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Momin Khan</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
 
 ![Momin Khan](https://github.com/momin-khann/momin-khann/assets/68404645/c3e11cf7-c6aa-4fcb-ab41-9abc8fcb0b13)
 
