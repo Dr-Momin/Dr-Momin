@@ -1,6 +1,8 @@
 
 ![Momin Khan](https://github.com/momin-khann/momin-khann/assets/68404645/c3e11cf7-c6aa-4fcb-ab41-9abc8fcb0b13)
 
+### Hi, my name is Momin 👋 and I am a Full Stack Developer 🧑‍💻
+
 - 🔭 I’m currently working on [dev-overflow](https://github.com/momin-khann/dev-overflow)
 
 - 👨‍💻 All of my projects are available at [www.momin-khan.com](https://www.momin-khan.com)
@@ -9,12 +11,12 @@
 
 
 ### Skills 🛠️
-- **Languages: ** TypeScript, SQL
-- **Frontend: **  React, NextJS, TailwindCSS, Shadcn, Redux
-- **Backend: **   Node, Express, REST APIs, GraphQL
-- **Tools: **    Git, Postman, VSCode, WebStorm, Pieces
+- **Languages:** TypeScript, SQL
+- **Frontend:**  React, NextJS, TailwindCSS, Shadcn, Redux
+- **Backend:**   Node, Express, REST APIs, GraphQL
+- **Tools:**     Git, Postman, VSCode, WebStorm, Pieces
 
-### Education 
+### Education 🎓
 - Bachelor's Degree @ Sukkur IBA University (2019 - 2023)
 
 <br/>
