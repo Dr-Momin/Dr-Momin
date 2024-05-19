@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [dev-overflow](https://github.com/momin-khann/dev-overflow)
 
-- 👨‍💻 All of my projects are available at [https://www.momin-khan.com](https://www.momin-khan.com)
+- 👨‍💻 All of my projects are available at [www.momin-khan.com](https://www.momin-khan.com)
 
 - 📫 How to reach me **mominkhan.dev@gmail.com**
 
