@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Momin Khan</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [dev-overflow](https://github.com/Dr-Momin/next-devflow-jsm)
+![Momin Khan](https://github.com/momin-khann/momin-khann/assets/68404645/c3e11cf7-c6aa-4fcb-ab41-9abc8fcb0b13)
 
-- 👨‍💻 All of my projects are available at [https://dr-momin.vercel.app](https://dr-momin.vercel.app)
+- 🔭 I’m currently working on [dev-overflow](https://github.com/momin-khann/dev-overflow)
+
+- 👨‍💻 All of my projects are available at [https://www.momin-khan.com](https://www.momin-khan.com)
 
 - 📫 How to reach me **mominkhan.dev@gmail.com**
 
@@ -19,4 +21,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dr-momin&show_icons=true&locale=en&layout=compact" alt="dr-momin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momin-khann&show_icons=true&locale=en&layout=compact" alt="dr-momin" /></p>
