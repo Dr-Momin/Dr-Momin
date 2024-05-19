@@ -25,6 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momin-khann&show_icons=true&locale=en&layout=compact" alt="momin-khan" /></p>
 
 <br />
-##### More Information On My [LinkedIn](https://www.linkedin.com/in/momin-khann/) 🚀
+#### More Information On My [LinkedIn](https://www.linkedin.com/in/momin-khann/) 🚀
 
 
