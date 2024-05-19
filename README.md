@@ -8,14 +8,14 @@
 - 👨‍💻 All of my projects are available at [www.momin-khan.com](https://www.momin-khan.com)
 
 - 📫 How to reach me **mominkhan.dev@gmail.com**
-
+<br> 
 
 ### Skills 🛠️
 - **Languages:** TypeScript, SQL
 - **Frontend:**  React, NextJS, TailwindCSS, Shadcn, Redux
 - **Backend:**   Node, Express, REST APIs, GraphQL
 - **Tools:**     Git, Postman, VSCode, WebStorm, Pieces
-
+<br> 
 
 ### Work And Stats 🛠️
 
