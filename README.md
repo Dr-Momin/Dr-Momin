@@ -19,8 +19,8 @@
 
 ### Work And Stats 🛠️
 
-![Momin Khan](https://github-readme-stats.vercel.app/api/top-langs?username=momin-khann&show_icons=true&locale=en&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=momin-khann&show_icons=true&locale=en)
+![Momin Khan](https://github-readme-stats.vercel.app/api/top-langs?username=momin-khann&show_icons=true&locale=en&layout=compact)
 
 
 #### More Information On My [LinkedIn](https://www.linkedin.com/in/momin-khann/) 🚀
