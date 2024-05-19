@@ -16,15 +16,11 @@
 - **Backend:**   Node, Express, REST APIs, GraphQL
 - **Tools:**     Git, Postman, VSCode, WebStorm, Pieces
 
-### Education 🎓
-- Bachelor's Degree @ Sukkur IBA University (2019 - 2023)
-
-<br/>
 
 ### Work And Stats 🛠️
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momin-khann&show_icons=true&locale=en&layout=compact" alt="momin-khan" /></p>
 
-<br />
+![Momin Khan](https://github-readme-stats.vercel.app/api/top-langs?username=momin-khann&show_icons=true&locale=en&layout=compact)
+
+
 #### More Information On My [LinkedIn](https://www.linkedin.com/in/momin-khann/) 🚀
-
 
