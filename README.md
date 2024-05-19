@@ -8,17 +8,18 @@
 - 📫 How to reach me **mominkhan.dev@gmail.com**
 
 
-## Skills 🛠️
+### Skills 🛠️
 - **Languages: ** TypeScript, SQL
 - **Frontend: **  React, NextJS, TailwindCSS, Shadcn, Redux
 - **Backend: **   Node, Express, REST APIs, GraphQL
 - **Tools: **    Git, Postman, VSCode, WebStorm, Pieces
 
-## Education 
+### Education 
 - Bachelor's Degree @ Sukkur IBA University (2019 - 2023)
 
 <br/>
-## Work And Stats 💻
+
+### Work And Stats 🛠️
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momin-khann&show_icons=true&locale=en&layout=compact" alt="momin-khan" /></p>
 
 ##### More Information On My [LinkedIn](https://www.linkedin.com/in/momin-khann/) 🚀
